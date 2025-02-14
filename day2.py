@@ -5,4 +5,8 @@ operators
 
 """
 
+var = 10
+result="pass"
 
+print(var)
+print(result)
